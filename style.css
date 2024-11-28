@@ -1,0 +1,148 @@
+.upr-nav{
+    background-color: #921A40;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 30px;
+}
+nav{
+    background-color: #F0E0E7;
+}
+.navbar-brand img {
+    padding-left: 50px;
+}
+.nav-link{
+    color: #664343;
+    transition: all 0.3s ease-in-out;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: #53004f;
+    text-decoration: underline 3px solid;
+    cursor: pointer;
+}
+input{
+    width: 250px;
+}
+.icon {
+    font-size: 20px;
+    color: #3d051f;
+}
+
+.icon i {
+    padding-left: 20px;
+}
+.fa-solid{
+    color: #3d051f;
+}
+.form-control{
+    width: 100px;
+    border: none;
+    border-bottom: #541616 2px solid;
+    background: none;
+}
+main{
+    background-color: #e6e2e3;
+}
+.col h2, h3,h4{
+    color: #7c093f;
+}
+.col h5, h6,h1{
+    color: #7c093f;
+}
+.col p{
+    color: #a01d5a;
+}
+.card{
+    transition: all 0.3s ease-in;
+}
+.card:hover{
+  box-shadow: rgba(0, 0, 0, 0.35)0px 5px 15px;
+  cursor: pointer;
+}
+.card-title{
+    color:#680516;
+}
+.card-text a{
+    text-decoration: none;
+    color: #4d4c4c;
+}
+.card-text a:hover{
+    word-spacing: 15px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+footer{
+    background-color: #e7cdd9;
+    color: #3d051f;
+}
+footer .col p{
+    color: #000000;
+}
+li{
+    list-style: none;
+    font-size: 18px;
+  
+}
+li a{
+   color:#3d051f;
+   text-decoration: none;
+}
+.icn{
+    font-size: 30px;  
+}
+.color{
+    background-color: #DBB5B5;
+}
+.pink{
+    background-color:#52031a;
+}
+.wed a img:hover{
+    transition: all 0.2s ease-in-out;
+    box-shadow: rgba(0, 0, 0, 0.35)0px 5px 15px;
+}
+.wed-col{
+    background-color: #4d4c4c;
+}
+/* dropdown-start */
+.dropdown{
+    position: relative;
+    display: inline-block;
+    color: #000000;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #F0E0E7;
+    padding: 20px;
+    width: 450px;
+    box-shadow: rgba(0, 0, 0, 0.25)0px 5px 15px;
+}
+.dropdown-content a{
+    display: block;
+    color: #2e2d2d;
+    text-decoration: none;
+    padding: 3px;
+}
+.dropdown-content a:hover{
+    color: #af4074;
+   
+
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.bestsellers{
+    background-color: #df8578;
+    padding: ;
+}
+.bestsellers h1{
+  color: #610018;
+}
+.bestsellers img{
+    width: 300px;
+    height:auto;
+    box-shadow: rgba(0, 0, 0, 0.25)0 5px 15px;
+}
+
+
